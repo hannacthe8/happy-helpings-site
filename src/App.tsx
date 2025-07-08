@@ -1,9 +1,8 @@
-import React from 'react';
-
-function App() {
+ifunction App() {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-      <p>Start prompting (or editing) to see magic happen :)</p>
+    <div style={{ textAlign: "center", marginTop: "2rem" }}>
+      <h1>Welcome to Happy Helpings Bakery!</h1>
+      <p>Delicious homemade quiche, brownies, and cinnamon rolls 🍞🧁🥧</p>
     </div>
   );
 }
